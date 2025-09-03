@@ -8,4 +8,4 @@ Este projeto de console em C# foi desenvolvido para processar arquivos de texto 
 * **Análise de Conteúdo:** Para cada arquivo, o programa conta o número de palavras e linhas.
 * **Geração de Relatório:** Um arquivo de relatório consolidado, chamado `RelatorioProcessamento.txt`, é criado com os resultados da análise de cada arquivo, e é salvo na pasta principal do diretório que foi processado.
 
-# Integrante : RM98297 LUCAS P. SPERANZINI
+### Integrante : RM98297 LUCAS P. SPERANZINI
